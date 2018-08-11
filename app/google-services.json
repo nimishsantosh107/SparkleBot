@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045416552981",
+    "firebase_url": "https://sparkles-a5bdf.firebaseio.com",
+    "project_id": "sparkles-a5bdf",
+    "storage_bucket": "sparkles-a5bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045416552981:android:62382b46afef5adf",
+        "android_client_info": {
+          "package_name": "com.example.nimish.bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045416552981-jikkd1d97sv8kmk1rvaagd6g0g7pagdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nimish.bot",
+            "certificate_hash": "5e8fb4be25623e405ffb61816646ff4e7993b9f0"
+          }
+        },
+        {
+          "client_id": "1045416552981-pslnqv3jgt0l5v1l2h2i614e8spnem2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIJ0GnboXbPeT7zL2uK7wfXD5_UsrHW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045416552981-pslnqv3jgt0l5v1l2h2i614e8spnem2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
